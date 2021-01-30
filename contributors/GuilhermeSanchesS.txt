@@ -1,2 +1,2 @@
 GuilhermeSanchesS
-bloodsugarquiz.guilhermesanchess.vercel.app
+https://bloodsugarquiz.guilhermesanchess.vercel.app/
